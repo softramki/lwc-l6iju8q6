@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/softramki.lwc-l6iju8q6",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve Mdp0FjfIudphT37zqUGl --open"
+  }
+}
